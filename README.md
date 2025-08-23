@@ -53,7 +53,7 @@ I’m passionate about building scalable web applications, optimizing performanc
 
 - 🎓 Diploma in Full Stack Java — Jain University *(2024 – Present)*  
 - 🎓 MERN Stack Certification — KG Coding *(2025)*  
-- 📘 Courses: Industry 4.0, DBMS, SQL vs NoSQL, Maths for Coding  
+- 📘 Courses: AI/ML, JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
 
