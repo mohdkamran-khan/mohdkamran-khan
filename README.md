@@ -10,10 +10,10 @@ I’m passionate about building scalable web applications, optimizing performanc
 
 ## 🛠️ Tech Stack  
 
-- **Languages:** Java, JavaScript (ES6+), HTML5, CSS3  
-- **Frameworks/Libraries:** React.js, Node.js, Express.js, JSP, Servlet, Redux, Bootstrap, TailwindCSS  
-- **Databases:** MongoDB, MySQL, Oracle  
-- **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ, Maven, Multer, Cloudinary, Stripe  
+- **Languages:** Java, JavaScript, SQL, HTML, CSS, JSON  
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, JSP, JSTL, Servlet, Redux, Bootstrap, TailwindCSS
+- **Databases:** MongoDB, MySQL, Oracle, RDBMS  
+- **Tools:** Git, GitHub, VS Code, Eclipse, IntelliJ,Postman, Apache Tomcat, Maven, Multer, Cloudinary, Stripe  
 - **Concepts:** DSA, JWT Authentication, REST APIs, CI/CD, SQL vs NoSQL, AI/ML basics  
 
 ---
