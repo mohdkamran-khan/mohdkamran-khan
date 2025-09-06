@@ -29,53 +29,20 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 
 ## 🛠️ Tech Stack  
 
-**Languages & Tools**  
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-blue?logo=leetcode&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML%20Fundamentals-FF6F00?logo=ai&logoColor=white)
+**Languages & Core**  
+Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML Fundamentals  
 
 **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white)
-![JSTL](https://img.shields.io/badge/JSTL-007396?logo=java&logoColor=white)
+React.js · Next.js · Node.js · Express.js · JSP · JSTL · Redux · Bootstrap · Tailwind CSS  
 
 **Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![RDBMS](https://img.shields.io/badge/RDBMS-003B57?logo=databricks&logoColor=white)
-![SQL vs NoSQL](https://img.shields.io/badge/SQL%20vs%20NoSQL-gray?logo=database&logoColor=white)
+MongoDB · MySQL · Oracle · RDBMS · SQL vs NoSQL  
 
-**Tools & Platforms** 
-![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?logo=visualstudiocode&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?logo=githubactions&logoColor=white)
+**Tools & Platforms**  
+Git · GitHub · VS Code · Eclipse · IntelliJ · Postman · Apache Tomcat · Maven · Docker · AWS · CI/CD  
 
-**Other Integrations**  
-![Multer](https://img.shields.io/badge/Multer-FFCA28?logo=npm&logoColor=black)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white)
+**Integrations**  
+Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
 
 ---
 
