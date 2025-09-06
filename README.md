@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN | Java | SQL**  
 
-I’m passionate about building scalable web applications, optimizing performance, and delivering user-focused solutions. My background in **Biotechnology** adds strong analytical and research-oriented skills to my development journey.  
+- I have my expertise in **React.js, Next.js, Node.js**, and **MongoDB** for *scalable application development*. Experienced in **REST APIs, JWT** authentication, *role-based access*, **Stripe/Razorpay** integrations, and *cloud deployments* with **AWS, Docker, Vercel**, and **Netlify**. Open to *Full Stack, Frontend*, or *JavaScript Developer* roles to build secure, high-performance applications.
 
 🌐 **Portfolio:** [mohdkamran-khan.github.io/KAMRAN-portfolio](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)  
 
