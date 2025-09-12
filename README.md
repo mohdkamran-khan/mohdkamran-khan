@@ -62,7 +62,7 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 
 - 🔗 🎓 [**Learning Management System (MERN)**](https://github.com/mohdkamran-khan/MT) – Online education platform with dashboards and CRUD.  
 - 🔗 📚 [**eBook Management App**](https://github.com/mohdkamran-khan/Ebook) – JSP/Servlet + JSTL + MySQL with pagination, filters & role-based management.
-- 🔗 📅 [**Event Tracker**](https://github.com/mohdkamran-khan/Mini-Event-Tracker) - Simple, Clean & Responsive Event Tracker with CRUD and search features.
+- 🔗 📅 [**Event Tracker**](https://github.com/mohdkamran-khan/Mini-Event-Tracker) - Clean & Responsive Event Tracker with CRUD and search features.
 - 🔗 🛍️ [**Myntra Clone**](https://github.com/mohdkamran-khan/Myntra_Clone) – HTML/CSS + JS with product details and add checkout feature.  
 - 🔗 🎬 [**Disney+ Hotstar Clone**](https://github.com/mohdkamran-khan/HotStar-Clones) – React.js app with responsive design [Demo Link](https://hotstarclonekamran.netlify.app).  
 - 🔗 👉 Additional Java, MySQL, and JSP projects available on [GitHub](https://github.com/mohdkamran-khan).  
