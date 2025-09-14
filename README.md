@@ -100,7 +100,7 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 [![Portfolio](https://img.shields.io/badge/Portfolio-333?logo=vercel&logoColor=white)](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdkamran-khan/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mohdkamran-khan)  
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanmohdkamran@yahoo.com)  
+[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdkamrankhan.dev@gmail.com)  
 
 ---
 
