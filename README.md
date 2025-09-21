@@ -104,7 +104,7 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ---
 
-💡 If you like my work, please **⭐ this repo**. Your support inspires me to build more projects! 🚀
+💡 If you like my work, please **⭐ my repos**. Your support inspires me to build more projects! 🚀
 
 ---
 
