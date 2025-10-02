@@ -54,7 +54,6 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 - Built an LMS with **JWT authentication**, **role-based access**, and REST APIs.  
 - Designed optimized **MongoDB schemas**, reducing API response by **30%**.  
 - Integrated **Cloudinary** uploads and **Stripe** payments for 100+ users.  
-- Contributed to **agile sprints**, peer reviews, and CI/CD workflows.  
 
 ---
 
