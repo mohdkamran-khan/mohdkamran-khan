@@ -81,7 +81,8 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 ## 📜 Certifications  
 
 - 🎓 Diploma in Full Stack Java — Jain University *(2024 – 2025)*  
-- 🎓 MERN Stack Certification — KG Coding *(2025)*  
+- 🎓 MERN Stack Certification — KG Coding *(2025)*
+- 🎓 REACT Hooks Crash Course — GreatStack *(2025)*    
 - 📘 Courses: AI/ML, JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
