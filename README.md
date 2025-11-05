@@ -10,7 +10,7 @@
 I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, and MongoDB** for scalable applications.  
 - ⚡ Experienced in **REST APIs, JWT authentication, role-based access**  
 - 💳 Integrated **Stripe/Razorpay** for secure payments  
-- ☁️ Skilled in **AWS, Docker, Vercel, Netlify deployments**  
+- ☁️ Skilled in **AWS, Amazon Q Development, Blockchain Development, Prompt Engineering, AI/ML, Docker, Vercel, Netlify deployments**  
 - 🎯 Open to *Full Stack, Frontend, or JavaScript Developer* roles 
 
 🌐 **Portfolio:** [mohdkamran-khan.github.io/KAMRAN-portfolio](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)  
@@ -24,22 +24,27 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![Amazon Q Developer](https://img.shields.io/badge/Amazon%20Q%20Developer-232F3E?logo=amazon&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-412991?logo=openai&logoColor=white)
+![Blockchain Developer](https://img.shields.io/badge/Blockchain%20Developer-121D33?logo=bitcoin&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B42BC?logo=openai&logoColor=white)
+
 
 ---
 
 ## 🛠️ Tech Stack  
 
 **Languages & Core**  
-Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML Fundamentals  
+Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML Fundamentals · Blockchain Development · Prompt Engineering
 
 **Frameworks & Libraries**  
-React.js · Next.js · Node.js · Express.js · JSP · JSTL · Redux · Bootstrap · Tailwind CSS  
+React.js · Next.js · Node.js · Express.js · JSP · JSTL · Redux · Bootstrap · Tailwind · ShadCN 
 
 **Databases**  
-MongoDB · MySQL · Oracle · RDBMS · SQL vs NoSQL  
+MongoDB · MySQL · AWS · Oracle · RDBMS · SQL vs NoSQL  
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Eclipse · IntelliJ · Postman · Apache Tomcat · Maven · Docker · AWS · CI/CD  
+Git · GitHub · VS Code · Eclipse · IntelliJ · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer 
 
 **Integrations**  
 Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
@@ -82,7 +87,11 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 
 - 🎓 Diploma in Full Stack Java — Jain University *(2024 – 2025)*  
 - 🎓 MERN Stack Certification — KG Coding *(2025)*
-- 🎓 REACT Hooks Crash Course — GreatStack *(2025)*    
+- 🎓 REACT Hooks Crash Course — GreatStack *(2025)*
+- 🎓 Amazon Q Developer — AWS Training & Certification *(2025)*
+- 🎓 Fundamentals of AI/ML — AWS Training & Certification *(2025)*
+- 🎓 Introduction to Prompt Engineering with GitHub Copilot — Microsoft & SkillUP *(2025)*
+- 🎓 Blockchain Developer Training — SkillUP *(2025)*
 - 📘 Courses: AI/ML, JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
