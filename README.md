@@ -35,16 +35,16 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ## 🛠️ Tech Stack  
 
 **Languages & Core**  
-Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML Fundamentals · Blockchain Development · Prompt Engineering
+Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML · Blockchain Development · Prompt Engineering
 
 **Frameworks & Libraries**  
-React.js · Next.js · Node.js · Express.js · JSP · JSTL · Redux · Bootstrap · Tailwind · ShadCN 
+React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL · Machine Learning · LLM 
 
 **Databases**  
-MongoDB · MySQL · AWS · Oracle · RDBMS · SQL vs NoSQL  
+MongoDB · MySQL · AWS · Oracle  
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Eclipse · IntelliJ · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer 
+Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
 
 **Integrations**  
 Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
@@ -92,7 +92,10 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 - 🎓 Fundamentals of AI/ML — AWS Training & Certification *(2025)*
 - 🎓 Introduction to Prompt Engineering with GitHub Copilot — Microsoft & SkillUP *(2025)*
 - 🎓 Blockchain Developer Training — SkillUP *(2025)*
-- 📘 Courses: AI/ML, JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
+- 🎓 Introduction To Machine Learning — Kaggle *(2025)*
+- 🎓 Fundamentals Of LLM — Hugging Face Instructors *(2025)*
+- 🎓 Cybersecurity Fundamentals — IBM *(2025)*
+- 📘 Courses: JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
 
