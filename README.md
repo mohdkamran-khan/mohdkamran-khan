@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohd Kamran Khan 
 
-![Followers](https://img.shields.io/github/followers/mohdkamran-khan?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/mohdkamran-khan?label=Stars&style=social)
+![Followers](https://img.shields.io/github/followers/mohdkamran-khan)
+![Stars](https://img.shields.io/github/stars/mohdkamran-khan)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohdkamran-khan&label=Profile%20views&color=0e75b6&style=flat)
 
 ![Banner](https://mohdkamran-khan.github.io/KAMRAN-portfolio/banner.png)
@@ -26,6 +26,8 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
 ![Amazon Q Developer](https://img.shields.io/badge/Amazon%20Q%20Developer-232F3E?logo=amazon&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-412991?logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-0A0A0A?logo=githubcopilot&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?logo=securityscorecard&logoColor=white)
 ![Blockchain Developer](https://img.shields.io/badge/Blockchain%20Developer-121D33?logo=bitcoin&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B42BC?logo=openai&logoColor=white)
 
