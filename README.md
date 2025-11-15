@@ -43,10 +43,10 @@ Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML �
 React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL · Machine Learning · LLM 
 
 **Databases**  
-MongoDB · MySQL · AWS · Oracle  
+MongoDB · MySQL · AWS · Oracle · RDBMS  
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
+Git · GitHub · VS Code · Cursor · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
 
 **Integrations**  
 Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
