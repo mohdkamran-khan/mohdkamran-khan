@@ -46,7 +46,7 @@ React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Ex
 MongoDB · MySQL · AWS · Oracle · RDBMS  
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Cursor · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
+Git · Cursor · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
 
 **Integrations**  
 Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
