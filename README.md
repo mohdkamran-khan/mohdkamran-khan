@@ -37,16 +37,16 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ## 🛠️ Tech Stack  
 
 **Languages & Core**  
-Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML · Blockchain Development · Prompt Engineering
+Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML · Blockchain Development · Prompt Engineering · Low-Level Design
 
 **Frameworks & Libraries**  
-React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL · Machine Learning · LLM 
+React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL · Machine Learning · LLM · WordPress
 
 **Databases**  
-MongoDB · MySQL · AWS · Oracle · RDBMS  
+MongoDB · MySQL · AWS · Oracle · PHP · RDBMS  
 
 **Tools & Platforms**  
-Git · Cursor · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Amazon Q Developer · Cybersecurity  
+Git · Cursor · Eclipse · IntelliJ IDEA · Postman · Apache Tomcat · Maven · Docker · Morgan · Axios · CI/CD · Framer Motion · SendGrid · Amazon Q Developer · Cybersecurity  
 
 **Integrations**  
 Multer · Cloudinary · Stripe · JWT Authentication · REST APIs  
@@ -54,6 +54,11 @@ Multer · Cloudinary · Stripe · JWT Authentication · REST APIs
 ---
 
 ## 💼 Work Experience  
+
+**Frontend Developer Intern (React)**  
+*Skillfied mentor, Remote* — *(Dec 2025 – Mar 2026)*  
+
+---
 
 **Full Stack Web Developer Intern (MERN Stack)**  
 *MindShift Technologies, Remote* — *(Jun 2025 – Sep 2025)*  
