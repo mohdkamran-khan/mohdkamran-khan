@@ -97,9 +97,10 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ## 📜 Certifications  
 
-- 🎓 Diploma in Full Stack Java — Jain University *(2024 – 2025)*  
+- 🎓 Post Graduate Certified Diploma in Full Stack Java — Jain University *(2024 – 2025)*  
 - 🎓 MERN Stack Certification — KG Coding *(2025)*
 - 🎓 REACT Hooks Crash Course — GreatStack *(2025)*
+- 🎓 Cloud Computing Fundamentals — IBM Skills *(2025)*
 - 🎓 Amazon Q Developer — AWS Training & Certification *(2025)*
 - 🎓 Fundamentals of AI/ML — AWS Training & Certification *(2025)*
 - 🎓 Introduction to Prompt Engineering with GitHub Copilot — Microsoft & SkillUP *(2025)*
@@ -107,6 +108,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 - 🎓 Introduction To Machine Learning — Kaggle *(2025)*
 - 🎓 Fundamentals Of LLM — Hugging Face Instructors *(2025)*
 - 🎓 Cybersecurity Fundamentals — IBM *(2025)*
+- 🎓 DSA using Java Course — Knowledge Gate *(2025)*
 - 📘 Courses: JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
