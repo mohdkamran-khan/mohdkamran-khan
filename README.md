@@ -73,6 +73,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 - 🔗 🎓 [**Learning Management System (MERN)**](https://github.com/mohdkamran-khan/MT) – Online education platform with dashboards and CRUD.  
 - 🔗 📚 [**eBook Management App**](https://github.com/mohdkamran-khan/Ebook) – JSP/Servlet + JSTL + MySQL with pagination, filters & role-based management.
+- 🔗 📡 [**News Aggregator**](https://github.com/mohdkamran-khan/News-Aggregator) – A Web App that delivers real-time headlines with a sleek UI, secure backend proxy, and optimized performance. [Demo Link](news-aggregator-pi-pearl.vercel.app)
 - 🔗 🍴 [**Recipe Finder & Meal Planner**](https://github.com/mohdkamran-khan/Recipe-Finder-Meal-Planner) – Meal planner webapp with Search, Trending, Favorite & Weekly Meal Planning features. [Demo Link](https://recipe-finder-meal-planner-909wtvw7j-mohd-kamran-khans-projects.vercel.app/)
 - 🔗 🕵🏼 [**Admin Panel Dashboard**](https://github.com/mohdkamran-khan/Admin-Panel-Dashboard) – React + Vite + Recharts with data visualization graph, top products & theme support. [Demo Link]( https://mohdkamran-khan.github.io/Admin-Panel-Dashboard)
 - 🔗 💬 [**Twitter Clone**](https://github.com/mohdkamran-khan/Twitter_Clone) – Twitter inspired React+Tailwind fully functional frontend clone.
@@ -82,7 +83,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 - 🔗 🏡 [**Airbnb Frontend Clone**](https://github.com/mohdkamran-khan/Airbnb-Frontend) – Fully responsive clone of Airbnb frontend built via React.js [Demo Link](https://mohdkamran-khan.github.io/Airbnb-Frontend/)
 - 🔗 📅 [**Event Tracker**](https://github.com/mohdkamran-khan/Mini-Event-Tracker) - Clean & Responsive Event Tracker with CRUD and search features.
 - 🔗 🛍️ [**Myntra Clone**](https://github.com/mohdkamran-khan/Myntra_Clone) – HTML/CSS + JS with product details and add checkout feature.  
-- 🔗 🎬 [**Disney+ Hotstar Clone**](https://github.com/mohdkamran-khan/HotStar-Clones) – React.js app with responsive design [Demo Link](https://hotstarclonekamran.netlify.app).  
+- 🔗 🎬 [**Disney+ Hotstar Clone**](https://github.com/mohdkamran-khan/HotStar-Clones) – React.js app with responsive design [Demo Link](https://hotstarclonekamran.netlify.app)
 
 ---
 
