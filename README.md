@@ -54,8 +54,21 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ## 💼 Work Experience  
 
+**Web Developer Intern (MERN Stack)**  
+*Syntecxhub, Remote* — *(Feb 2026 – Mar 2026)*  
+
+- Developed a practical understanding of modern web development workflows, tools, and industry practices.
+- Enhanced problem solving, debugging, and performance optimization skills by working on real world challenges.
+- Applied professional coding standards and software development lifecycle principles while effectively managing project requirements and deadlines.
+
+---
+
 **Frontend Developer Intern (React)**  
 *Skillfied mentor, Remote* — *(Dec 2025 – Mar 2026)*  
+
+- Strengthening my React skill.
+- Gaining hands-on experience and contributing to real world projects.
+- Learning to work in agile sprints & collaborating with colleagues.
 
 ---
 
