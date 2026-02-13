@@ -131,8 +131,8 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ## 📊 GitHub Stats  
 
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdkamran-khan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdkamran-khan&layout=compact&theme=radical)  
+![Kamran's GitHub stats](https://github-stats-kamran.vercel.app/api?username=mohdkamran-khan&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&include_all_commits=true&hide_rank=true)  
+![Top Langs](https://github-stats-kamran.vercel.app/api/top-langs/?username=mohdkamran-khan&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
