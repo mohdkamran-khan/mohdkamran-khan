@@ -9,8 +9,7 @@
 ## 🧑‍💻 About Me  
 I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, and MongoDB** for scalable applications.  
 - ⚡ Experienced in **REST APIs, JWT authentication, role-based access**  
-- 💳 Integrated **Stripe/Razorpay** for secure payments  
-- ☁️ Skilled in **AWS, Amazon Q Development, Blockchain Development, Prompt Engineering, AI/ML, Docker, Vercel, Netlify deployments**  
+- ☁️ Skilled in **Cloud Deployments**  
 - 🎯 Open to *Full Stack, Frontend, or JavaScript Developer* roles 
 
 🌐 **Portfolio:** [mohdkamran-khan.github.io/KAMRAN-portfolio](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)  
@@ -53,7 +52,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 ## 💼 Work Experience  
 
 **Web Developer Intern (MERN Stack)**  
-*Syntecxhub, Remote* — *(Feb 2026 – Mar 2026)*  
+*Syntecxhub, Remote* — *(Feb 2026 – Present)*  
 
 - Developed a practical understanding of modern web development workflows, tools, and industry practices.
 - Enhanced problem solving, debugging, and performance optimization skills by working on real world challenges.
@@ -62,7 +61,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 ---
 
 **Frontend Developer Intern (React)**  
-*Skillfied mentor, Remote* — *(Dec 2025 – Mar 2026)*  
+*Skillfied mentor, Remote* — *(Dec 2025 – Present)*  
 
 - Strengthening my React skill.
 - Gaining hands-on experience and contributing to real world projects.
