@@ -26,9 +26,7 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
 ![Amazon Q Developer](https://img.shields.io/badge/Amazon%20Q%20Developer-232F3E?logo=amazon&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-412991?logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-0A0A0A?logo=githubcopilot&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2E8B57?logo=securityscorecard&logoColor=white)
-![Blockchain Developer](https://img.shields.io/badge/Blockchain%20Developer-121D33?logo=bitcoin&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B42BC?logo=openai&logoColor=white)
 
 ---
@@ -36,16 +34,16 @@ I’m a **Full Stack Developer** specializing in **React.js, Next.js, Node.js, a
 ## 🛠️ Tech Stack  
 
 **Languages & Core**  
-Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML · Blockchain Development · Prompt Engineering · Low-Level Design
+Java · JavaScript · TypeScript · SQL · HTML · CSS · JSON · DSA · AI/ML
 
 **Frameworks & Libraries**  
-React.js · Next.js · Redux · Bootstrap · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL · Machine Learning · LLM · WordPress
+React.js · Next.js · Redux · Tailwind · ShadCN · Node.js · Express.js · JSP · JSTL
 
 **Databases**  
-MongoDB · MySQL · AWS · Oracle · PHP · RDBMS  
+MongoDB · MySQL · AWS · RDBMS  
 
 **Tools & Platforms**  
-Git · Cursor · Docker · CI/CD · Framer Motion · SendGrid · Amazon Q Developer · Cybersecurity  
+Git · CI/CD · Framer Motion · SendGrid
 
 **Integrations**  
 Cloudinary · Stripe · JWT Authentication · REST APIs  
@@ -88,15 +86,12 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 - 🔗 📡 [**News Aggregator**](https://github.com/mohdkamran-khan/News-Aggregator) – A Web App that delivers real-time headlines with a sleek UI, secure backend proxy, and optimized performance. [Demo Link](https://news-aggregator-pi-pearl.vercel.app/)
 - 🔗 🍴 [**Recipe Finder & Meal Planner**](https://github.com/mohdkamran-khan/Recipe-Finder-Meal-Planner) – Meal planner webapp with Search, Trending, Favorite & Weekly Meal Planning features. [Demo Link](https://recipe-finder-meal-planner-909wtvw7j-mohd-kamran-khans-projects.vercel.app/)
 - 🔗 📊 [**Expense Tracker**](https://github.com/mohdkamran-khan/Expense-Tracker) – An Expense Tracker built with React, Vite, Tailwind & Recharts with features like dark/light mode, search & category filters, analytics charts and local storage persistence. [Demo Link](https://mohdkamran-khan.github.io/Expense-Tracker/)
-- 🔗 🕵🏼 [**Admin Panel Dashboard**](https://github.com/mohdkamran-khan/Admin-Panel-Dashboard) – React + Vite + Recharts with data visualization graph, top products & theme support. [Demo Link]( https://mohdkamran-khan.github.io/Admin-Panel-Dashboard)
 - 🔗 💬 [**Twitter Clone**](https://github.com/mohdkamran-khan/Twitter_Clone) – Twitter inspired React+Tailwind fully functional frontend clone.
 - 🔗 🖥️ [**Gemini Chat**](https://github.com/mohdkamran-khan/Gemini-Chat) – A Gemini powered AI chat app that has a responsive UI, built using MERN Stack.
 - 🔗 📄 [**Ask Your PDF**](https://github.com/mohdkamran-khan/AskYourPDF) – A small lightweight app with AI integration where users can upload a PDF to summarize or ask questions.
 - 🔗 🏡 [**Airbnb Clone**](https://github.com/mohdkamran-khan/Airbnb-Clone) – Clone of Airbnb rendered completely from backend using Node.js.
 - 🔗 🏡 [**Airbnb Frontend Clone**](https://github.com/mohdkamran-khan/Airbnb-Frontend) – Fully responsive clone of Airbnb frontend built via React.js [Demo Link](https://mohdkamran-khan.github.io/Airbnb-Frontend/)
 - 🔗 📅 [**Event Tracker**](https://github.com/mohdkamran-khan/Mini-Event-Tracker) - Clean & Responsive Event Tracker with CRUD and search features.
-- 🔗 🛍️ [**Myntra Clone**](https://github.com/mohdkamran-khan/Myntra_Clone) – HTML/CSS + JS with product details and add checkout feature.  
-- 🔗 🎬 [**Disney+ Hotstar Clone**](https://github.com/mohdkamran-khan/HotStar-Clones) – React.js app with responsive design [Demo Link](https://hotstarclonekamran.netlify.app)
 
 ---
 
@@ -115,33 +110,21 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 - 🎓 Post Graduate Certified Diploma in Full Stack Java — Jain University *(2024 – 2025)*  
 - 🎓 MERN Stack Certification — KG Coding *(2025)*
-- 🎓 REACT Hooks Crash Course — GreatStack *(2025)*
 - 🎓 Cloud Computing Fundamentals — IBM Skills *(2025)*
-- 🎓 Amazon Q Developer — AWS Training & Certification *(2025)*
 - 🎓 Fundamentals of AI/ML — AWS Training & Certification *(2025)*
-- 🎓 Introduction to Prompt Engineering with GitHub Copilot — Microsoft & SkillUP *(2025)*
-- 🎓 Blockchain Developer Training — SkillUP *(2025)*
-- 🎓 Introduction To Machine Learning — Kaggle *(2025)*
-- 🎓 Fundamentals Of LLM — Hugging Face Instructors *(2025)*
-- 🎓 Cybersecurity Fundamentals — IBM *(2025)*
-- 🎓 DSA using Java Course — Knowledge Gate *(2025)*
 - 📘 Courses: JS, Industry 4.0, SQL vs NoSQL, Maths for Coding  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Kamran's GitHub stats](https://github-stats-kamran.vercel.app/api?username=mohdkamran-khan&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&include_all_commits=true&hide_rank=true)  
-![Top Langs](https://github-stats-kamran.vercel.app/api/top-langs/?username=mohdkamran-khan&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
+![Kamran's GitHub stats](https://github-stats-kamran.vercel.app/api?username=mohdkamran-khan&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400&include_all_commits=true&hide_rank=true) ![Top Langs](https://github-stats-kamran.vercel.app/api/top-langs/?username=mohdkamran-khan&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-333?logo=vercel&logoColor=white)](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdkamran-khan/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mohdkamran-khan)  
-[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdkamrankhan.dev@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-333?logo=vercel&logoColor=white)](https://mohdkamran-khan.github.io/KAMRAN-portfolio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdkamran-khan/) [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mohdkamran-khan) [![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohdkamrankhan.dev@gmail.com)
 
 ---
 
@@ -149,4 +132,4 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ---
 
-👨🏻‍💻 From [mohdkamran-khan](https://github.com/mohdkamran-khan)
+👨🏻‍💻 From [mohdkamran-khan](https://mohdkamran-khan.github.io/KAMRAN-portfolio/)
