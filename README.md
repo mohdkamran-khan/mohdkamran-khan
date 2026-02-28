@@ -90,7 +90,6 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 - 🔗 📄 [**Ask Your PDF**](https://github.com/mohdkamran-khan/AskYourPDF) – A small lightweight app with AI integration where users can upload a PDF to summarize or ask questions.
 - 🔗 🏡 [**Airbnb Clone**](https://github.com/mohdkamran-khan/Airbnb-Clone) – Clone of Airbnb rendered completely from backend using Node.js.
 - 🔗 🏡 [**Airbnb Frontend Clone**](https://github.com/mohdkamran-khan/Airbnb-Frontend) – Fully responsive clone of Airbnb frontend built via React.js [Demo Link](https://mohdkamran-khan.github.io/Airbnb-Frontend/)
-- 🔗 📅 [**Event Tracker**](https://github.com/mohdkamran-khan/Mini-Event-Tracker) - Clean & Responsive Event Tracker with CRUD and search features.
 
 ---
 
