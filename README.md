@@ -82,7 +82,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 - 🔗 🎓 [**Learning Management System**](https://github.com/mohdkamran-khan/MT) – Online education platform with dashboards and CRUD.
 - 🔗 📜 [**Task Manager**](https://github.com/mohdkamran-khan/Syntecxhub_Task_Manager) – A simple, clean & responsive task manager with user authentication, CRUD and search features.
-- 🔗 📜 [**Blog Application**](https://github.com/mohdkamran-khan/Syntecxhub_Blog_Application) – Blogging application with image upload & CRUD features for users built using MERN stack.
+- 🔗 ✍🏼 [**Blog Application**](https://github.com/mohdkamran-khan/Syntecxhub_Blog_Application) – Blogging application with image upload & CRUD features for users built using MERN stack.
 - 🔗 📚 [**eBook Management App**](https://github.com/mohdkamran-khan/Ebook) – JSP/Servlet + JSTL + MySQL with pagination, filters & role-based management.
 - 🔗 📡 [**News Aggregator**](https://github.com/mohdkamran-khan/News-Aggregator) – A Web App that delivers real-time headlines with a sleek UI, secure backend proxy, and optimized performance. [Demo Link](https://news-aggregator-pi-pearl.vercel.app/)
 - 🔗 🍴 [**Recipe Finder & Meal Planner**](https://github.com/mohdkamran-khan/Recipe-Finder-Meal-Planner) – Meal planner webapp with Search, Trending, Favorite & Weekly Meal Planning features. [Demo Link](https://recipe-finder-meal-planner-909wtvw7j-mohd-kamran-khans-projects.vercel.app/)
