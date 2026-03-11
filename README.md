@@ -51,8 +51,18 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 
 ## 💼 Work Experience  
 
-**Web Developer Intern (MERN Stack)**  
-*Syntecxhub, Remote* — *(Feb 2026 – Present)*  
+**Frontend Developer Intern (React)**  
+*Evolko Systems Pvt Ltd, Lucknow* — *(Mar 2026 – Present)*  
+
+- Developed React based UI modules for a clinical support web application used by hundreds of active healthcare professionals, enabling real time access to patient monitoring and clinical data.
+- Built dashboards and workflows supporting doctors, nurses, and hospital staff, improving usability for managing critical patient records and treatment inputs.
+- Integrated REST APIs and implemented secure data handling for active user sessions and patient updates, ensuring reliable communication between frontend and backend services.
+- Improved frontend performance and error handling across patient data entry forms and monitoring panels, supporting smooth operation in high activity clinical environments.
+
+---
+
+**FullStack Web Developer Intern (MERN Stack)**  
+*Syntecxhub, Remote* — *(Feb 2026 – Mar 2026)*  
 
 - Developed a practical understanding of modern web development workflows, tools, and industry practices.
 - Enhanced problem solving, debugging, and performance optimization skills by working on real world challenges.
@@ -61,7 +71,7 @@ Cloudinary · Stripe · JWT Authentication · REST APIs
 ---
 
 **Frontend Developer Intern (React)**  
-*Skillfied mentor, Remote* — *(Dec 2025 – Present)*  
+*Skillfied mentor, Remote* — *(Dec 2025 – Mar 2026)*  
 
 - Strengthening my React skill.
 - Gaining hands-on experience and contributing to real world projects.
